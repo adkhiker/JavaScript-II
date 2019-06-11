@@ -73,7 +73,6 @@ contains("yo-yo", items, function(output) {
   console.log(`\ncontains() output:\n${output}`);
 });
 
-
 /* STRETCH PROBLEM */
 
 function removeDuplicates(array, cb) {
